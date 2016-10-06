@@ -1,4 +1,4 @@
-package example0;
+package example.basictextoutput;
 
 import java.io.IOException;
 import java.io.PrintWriter;

@@ -1,4 +1,4 @@
-package example1;
+package example.firstbinary;
 
 import java.io.DataInputStream;
 import java.io.FileInputStream;
